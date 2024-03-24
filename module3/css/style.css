@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-color: #555;
+}
+.collapse{
+    margin-top: 6px;
+    margin-bottom: -6px;
+}
+.nav-item{
+    background-color: #434;
+    border: 1px solid #aaa;
+    margin-left: -10px;
+    width: 104%;
+}
+#heading{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+div.row>section{
+    background-color: #444;
+    margin-top: 20px;
+}
+section h3{
+    margin-top: 10px;
+    color: wheat;
+}
+.navbar-brand{
+    font-size: 2em;
+}
